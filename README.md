@@ -76,7 +76,3 @@ These are like magic doors that let us interact with the books:
    ```
    http://127.0.0.1:8000/api/books/
    ```
-
----
-
-🎉 **Congratulations! You now have a working book API!** 🚀📚
