@@ -8,13 +8,13 @@ This is a simple project where we can **add, update, delete, and view books** us
 
 📂 **my_django_books/** → This is the main project folder.  
 📂 **book_project/** → This holds the main settings and configurations.  
-📂 **books/** → This is where all the magic happens! It contains:  
+📂 **books/** → This application contains:  
 
-- 📄 **models.py** → Defines how a book looks (title, author, etc.).  
-- 📄 **serializers.py** → Converts book data into JSON so computers can read it.  
-- 📄 **views.py** → Handles how we get, add, update, and delete books.  
-- 📄 **urls.py** → Connects our API to the correct web address.  
-- 📂 **tests/** → Holds files to test if everything is working properly.  
+- 📄 **models.py** → Defines how a book looks | models (title, author, etc.).  
+- 📄 **serializers.py** → Converts data model into JSON format.  
+- 📄 **views.py** → Implements the API logic (Get, POST, PUT, Delete).  
+- 📄 **urls.py** → Maps our API endpoints to the correct web address | to views.  
+- 📂 **tests/** → Contains the unit tests for the API validation.  
 
 ---
 
@@ -38,7 +38,7 @@ These are like magic doors that let us interact with the books:
 - Publication date must be **in the past**.  
 
 ### 4️⃣ **Unit Tests**  
-- We wrote **tests** to make sure our API works correctly.  
+- **tests** Technically written to make sure APIs work correctly.  
 - The test checks if we can **add, view, update, and delete books**.  
 
 ---
