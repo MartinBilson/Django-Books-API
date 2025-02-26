@@ -1,7 +1,3 @@
-Here's a simple and clear README.md file that explains your project like you're explaining it to a 12-year-old.  
-
----
-
 ### 📚 **My Django Books API**  
 
 This is a simple project where we can **add, update, delete, and view books** using a web API. Think of it as a **digital bookshelf** where we can organize books and interact with them through code instead of a website.  
