@@ -43,7 +43,7 @@ These are like magic doors that let us interact with the books:
 
 ---
 
-## 🚀 **Why We Designed It This Way**  
+## 🚀 **Why this Design**  
 
 - **Django REST Framework (DRF)** → Makes it easy to create APIs.  
 - **ModelViewSet** → Helps manage books with less code.  
